@@ -1,2 +1,2 @@
 # PoAh
-Advanced PoAh Consensus for Blockchain
+Advanced Proof of Authentication (PoAh) Consensus for Blockchain
