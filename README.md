@@ -39,3 +39,10 @@ Should you have any questions or require further clarification regarding the imp
 
 We hope this repository serves as a valuable resource for your research and development efforts in the field of blockchain technology, particularly in enhancing security and efficiency in IoT and IoMT applications.
 
+## Note
+
+The paper "PoAh 2.0: AI-empowered Dynamic Authentication based Adaptive Blockchain Consensus for IoMT-Edge Workflow" is currently under peer review. It has been submitted to a reputed journal within the top 3% in its field, according to Scopus rankings. Once the paper is published and available online, I will update this repository with additional details and a link to the paper for further reading.
+
+In the meantime, for more information about my research and other projects, please visit my personal website at [https://joydutta.in/](https://joydutta.in/).
+
+
