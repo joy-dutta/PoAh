@@ -33,26 +33,25 @@ To get started with the PoAh 2.0 implementation, please refer to the `docs/READM
 
 We welcome contributions from the community to further enhance the PoAh 2.0 algorithm and its applications. Please refer to `CONTRIBUTING.md` for more information on how to contribute.
 
-## Contact
-
-Should you have any questions or require further clarification regarding the implementation or the paper, please do not hesitate to contact me at joy.dutta.in@ieee.org.
-
-We hope this repository serves as a valuable resource for your research and development efforts in the field of blockchain technology, particularly in enhancing security and efficiency in IoT and IoMT applications.
-
-## Note
-
-The paper "PoAh 2.0: AI-empowered Dynamic Authentication based Adaptive Blockchain Consensus for IoMT-Edge Workflow" is currently under peer review. It has been submitted to a reputed journal within the top 3% in its field, according to Scopus rankings. Once the paper is published and available online, I will update this repository with additional details and a link to the paper for further reading.
-
 In the meantime, for more information about my research and other projects, please visit my personal website at [https://joydutta.in/](https://joydutta.in/).
 
 ## Publication Note
 
-This paper is currently under peer review and has been submitted to a reputed journal in the field, ranking in the top 3% according to Scopus. We will share the paper publicly once it is available online. For further details and updates, please stay tuned.
+The paper "PoAh 2.0: AI-empowered Dynamic Authentication based Adaptive Blockchain Consensus for IoMT-Edge Workflow" is currently under peer review. It has been submitted to a reputed journal within the top 3% in its field, according to Scopus rankings. Once the paper is published and available online, I will update this repository with additional details and a link to the paper for further reading. For further details and updates, please stay tuned.
 
 ## Connect and Collaborate
 
 I am always looking for opportunities to collaborate with fellow researchers and professionals who are passionate about IoT, Blockchain, and AI for Social Good. If you are interested in working together or have ideas to discuss, please feel free to connect with me. Visit my personal website at [https://joydutta.in/](https://joydutta.in/) for more information about my work and interests.
 
 Additionally, you can connect with me on LinkedIn: [Joy Dutta](https://www.linkedin.com/in/joydutta1/). I look forward to exploring potential collaborations and contributing to impactful research together.
+
+## Contact
+
+Should you have any questions or require further clarification regarding the implementation or the paper, please do not hesitate to contact me at joy.dutta.in@ieee.org.
+
+We hope this repository serves as a valuable resource for your research and development efforts in the field of blockchain technology, particularly in enhancing security and efficiency in IoT and IoMT applications.
+
+
+
 
 
