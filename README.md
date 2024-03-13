@@ -4,13 +4,13 @@ Welcome to the official code repository for the research paper "PoAh 2.0: AI-emp
 
 ## Abstract
 
-Our research introduces PoAh 2.0, an advancement in the Proof of Authentication (PoAh) consensus algorithm, tailored for resource-constrained IoT devices. This iteration incorporates Artificial Intelligence (AI) at the block creator node level, facilitating dynamic authentication based on the sensitivity of data within each block. This approach ensures a high level of security and integrity for transactions within the IoMT-Edge workflow. Through a case study in an IoMT-based eHealth scenario, we demonstrate the effectiveness of our AI-enabled dynamic authentication mechanism, setting new standards for block validation and security.
+Our research introduces PoAh 2.0, an advancement in the Proof of Authentication (PoAh) consensus algorithm, customized for resource-constrained IoT devices. This iteration incorporates Artificial Intelligence (AI) at the block creator node level, facilitating dynamic authentication based on the sensitivity of data within each block. This approach ensures a high level of security and integrity for transactions within the IoMT-Edge workflow. Through a case study in an IoMT-based eHealth scenario, we demonstrate the effectiveness of our AI-enabled dynamic authentication mechanism, setting new standards for block validation and security.
 
 ## Blockchain Capabilities Highlighted
 
 - **Dynamic Authentication in Blockchain:** Introduces a novel dynamic authentication mechanism, adapting security protocols based on the sensitivity of data within each block.
 
-- **AI-Enabled Data Sensitivity Analysis:** Employs AI at the block creator node level for the assessment of data sensitivity, which informs the security protocols applied to each block.
+- **AI-Enabled Data Sensitivity Analysis:** Employs AI at the block creator node level for the assessment of data sensitivity, which informs the security measures applied to each block.
 
 - **Enhancement of Data Privacy and Security:** Significantly improves data privacy and security in eHealth scenarios through the management of metadata by AI and restricted data access.
 
